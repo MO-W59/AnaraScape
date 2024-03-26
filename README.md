@@ -9,8 +9,6 @@ Pictures on the way (Currently working on the C# ASP.NET migration)
 
 ## Current Tasks
 
-- Remove Blazor server scafolding -> (counter, weather service)
-
 - C# Migration to Blazor Server
 
 - Revisit XHR & Request HTTP codes (From django version todos)
