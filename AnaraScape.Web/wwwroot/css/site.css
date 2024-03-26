@@ -2,6 +2,13 @@
 
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: rgb(20, 20, 20);
+    color: white;
+    background-image: url("../static/AnaraBackground.png");
+    background-attachment: local;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 h1:focus {
@@ -19,7 +26,7 @@ a, .btn-link {
 }
 
 .content {
-    padding-top: 1.1rem;
+    padding-top: 5rem;
 }
 
 .valid.modified:not([type=checkbox]) {
