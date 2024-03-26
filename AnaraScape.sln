@@ -9,6 +9,11 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "AnaraScapeDB", "AnaraScapeD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{C4025E36-602F-459A-B46A-E12AB1AB047E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B37F0CF1-D840-41DB-8C15-305E06E56814}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
